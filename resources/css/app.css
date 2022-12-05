@@ -1,0 +1,4 @@
+.imgsize{
+    width: calc(100%-20);
+    height: 200px;
+  }
